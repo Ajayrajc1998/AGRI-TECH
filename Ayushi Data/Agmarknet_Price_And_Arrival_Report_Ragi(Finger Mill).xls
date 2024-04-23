@@ -1,0 +1,11 @@
+Both Price And Arrival from  01-Jan-2018 To 31-Dec-2023 Total Arrival- 120.10<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridViewBoth" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:#214C5B;font-weight:bold;background-color:#99CCFF;">
+			<th scope="col">State Name</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Variety</th><th scope="col">Group</th><th scope="col">Arrivals (Tonnes)</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Reported Date</th>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Seoni</td><td style="width:60px;">Chhpara</td><td style="width:60px;">Other</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">120.00</td><td style="width:60px;">3500</td><td style="width:60px;">3650</td><td style="width:60px;">3575</td><td style="width:60px;">19 Aug 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Seoni</td><td style="width:60px;">Seoni</td><td style="width:60px;">Feeds (Poultry Quality)</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">2900</td><td style="width:60px;">2900</td><td style="width:60px;">2900</td><td style="width:60px;">08 Jun 2018</td>
+		</tr>
+	</table>
+</div>

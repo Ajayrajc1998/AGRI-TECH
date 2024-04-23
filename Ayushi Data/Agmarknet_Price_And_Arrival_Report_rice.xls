@@ -1,0 +1,79 @@
+Both Price And Arrival from  01-Jan-2018 To 31-Dec-2023 Total Arrival- 24228.45<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridViewBoth" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:#214C5B;font-weight:bold;background-color:#99CCFF;">
+			<th scope="col">State Name</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Variety</th><th scope="col">Group</th><th scope="col">Arrivals (Tonnes)</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Reported Date</th>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Panna</td><td style="width:60px;">Ajaygarh</td><td style="width:60px;">1009 Kar</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">346.00</td><td style="width:60px;">1735</td><td style="width:60px;">1737</td><td style="width:60px;">1736</td><td style="width:60px;">19 Jun 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Panna</td><td style="width:60px;">Ajaygarh</td><td style="width:60px;">Parmal</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">50.00</td><td style="width:60px;">1400</td><td style="width:60px;">1400</td><td style="width:60px;">1400</td><td style="width:60px;">10 Feb 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Badwani</td><td style="width:60px;">Badwani</td><td style="width:60px;">1009 Kar</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">110.00</td><td style="width:60px;">5000</td><td style="width:60px;">5000</td><td style="width:60px;">5000</td><td style="width:60px;">16 Feb 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">1009 Kar</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">596.00</td><td style="width:60px;">1550</td><td style="width:60px;">1550</td><td style="width:60px;">1550</td><td style="width:60px;">01 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">1,000.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">15 Jan 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">1,000.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">14 Jan 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">800.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">11 Jan 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">800.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">10 Jan 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">4,870.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">09 Jan 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">750.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">08 Jan 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">700.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">07 Jan 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">1,000.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">05 Jan 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">1,000.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">03 Jan 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">2,000.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">02 Jan 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">700.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">31 Dec 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">500.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">29 Dec 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">600.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">27 Dec 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">1,010.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">26 Dec 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">488.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">22 Dec 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">800.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">18 Dec 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">500.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">14 Dec 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">200.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">13 Dec 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">300.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">12 Dec 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sehore</td><td style="width:60px;">Baktara</td><td style="width:60px;">Govt. Quality</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">300.00</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">1750</td><td style="width:60px;">10 Dec 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Berasia</td><td style="width:60px;">1009 Kar</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">333.70</td><td style="width:60px;">1600</td><td style="width:60px;">4500</td><td style="width:60px;">4380</td><td style="width:60px;">05 Dec 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Berasia</td><td style="width:60px;">1009 Kar</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">128.40</td><td style="width:60px;">1200</td><td style="width:60px;">4470</td><td style="width:60px;">4260</td><td style="width:60px;">04 Dec 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Berasia</td><td style="width:60px;">1009 Kar</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">128.40</td><td style="width:60px;">1200</td><td style="width:60px;">4470</td><td style="width:60px;">4260</td><td style="width:60px;">02 Dec 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Berasia</td><td style="width:60px;">1009 Kar</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">130.00</td><td style="width:60px;">1600</td><td style="width:60px;">4100</td><td style="width:60px;">3790</td><td style="width:60px;">20 Nov 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Berasia</td><td style="width:60px;">1009 Kar</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">274.30</td><td style="width:60px;">2000</td><td style="width:60px;">4010</td><td style="width:60px;">3700</td><td style="width:60px;">08 Nov 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Berasia</td><td style="width:60px;">1009 Kar</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">26.10</td><td style="width:60px;">2000</td><td style="width:60px;">4150</td><td style="width:60px;">3515</td><td style="width:60px;">06 Nov 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Berasia</td><td style="width:60px;">1009 Kar</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">0.90</td><td style="width:60px;">2700</td><td style="width:60px;">2700</td><td style="width:60px;">2700</td><td style="width:60px;">04 Nov 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Berasia</td><td style="width:60px;">1009 Kar</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">0.60</td><td style="width:60px;">2400</td><td style="width:60px;">2400</td><td style="width:60px;">2400</td><td style="width:60px;">03 Nov 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Berasia</td><td style="width:60px;">1009 Kar</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">1.60</td><td style="width:60px;">2600</td><td style="width:60px;">2605</td><td style="width:60px;">2600</td><td style="width:60px;">02 Nov 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Berasia</td><td style="width:60px;">1009 Kar</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">2730</td><td style="width:60px;">2730</td><td style="width:60px;">2730</td><td style="width:60px;">31 Oct 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Shehdol</td><td style="width:60px;">Shahdol</td><td style="width:60px;">Other</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">15.75</td><td style="width:60px;">1200</td><td style="width:60px;">1300</td><td style="width:60px;">1250</td><td style="width:60px;">05 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Mandsaur</td><td style="width:60px;">Suvasra</td><td style="width:60px;">1009 Kar</td><td style="width:60px;">Cereals</td><td align="right" style="width:60px;">2,768.50</td><td style="width:60px;">1735</td><td style="width:60px;">1735</td><td style="width:60px;">1735</td><td style="width:60px;">19 Apr 2018</td>
+		</tr>
+	</table>
+</div>
